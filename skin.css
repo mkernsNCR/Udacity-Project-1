@@ -1,0 +1,68 @@
+.mynav {
+    text-decoration: none;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.mynav li a {
+    color: lightgrey;
+}
+
+a:hover {
+    color: grey;
+}
+
+.title {
+    text-align: right;
+    font-size: 500%;
+}
+
+.author {
+    text-align: right;
+    font-size: 200%;
+}
+
+.size-one {
+    width: 100%;
+}
+
+.size-two {
+    margin: 10%;
+    width: 80%;
+    height: 100%;
+}
+
+.border-one {
+    border-bottom: 3px solid lightgrey;
+}
+
+.logo {
+    float: left;
+    max-height: 115px;
+}
+
+a {
+    text-align: center;
+    color: lightgrey;
+}
+
+.arrivals {
+    text-align: center;
+    font-family: sans-serif;
+    color: lightgrey;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+img:hover {
+    opacity: 0.8;
+}
+
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    color: lightgrey;
+}
