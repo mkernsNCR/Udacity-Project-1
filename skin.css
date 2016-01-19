@@ -41,8 +41,13 @@ a:hover {
 .logo {
     float: left;
     max-height: 115px;
+    -webkit-transition: transition 0.3s;
+    transition: 0.3s;
 }
-
+.logo:hover {
+    -webkit-transition: transition 0.3s;
+    transition: 0.3s;
+}
 a {
     text-align: center;
     color: lightgrey;
