@@ -55,8 +55,12 @@ a {
 
 .menu {
     list-style-type: none;
+    text-align: center;
 }
-
+.menu li {
+    display: inline-block;
+    padding: 15px;
+}
 img:hover {
     opacity: 0.8;
 }
