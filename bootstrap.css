@@ -1582,10 +1582,10 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-.container {
+/*.container {
   padding-right: 15px;
   padding-left: 15px;
-  margin: 50px auto 50px auto;
+  margin: 50px auto 50px auto;*/
 }
 @media (min-width: 768px) {
   .container {
@@ -1616,7 +1616,6 @@ pre code {
   position: relative;
   min-height: 1px;
   padding-right: 15px;
-  padding-left: 15px;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
@@ -1937,6 +1936,7 @@ pre code {
     float: left;
   }
   .col-md-12 {
+    padding-top: 20px;
     width: 100%;
   }
   .col-md-11 {
